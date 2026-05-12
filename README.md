@@ -13,3 +13,6 @@ This is my work I completed for Cpt_S 321 at Washington State University.
 - Homework 8: 9.7/10
 - Homework 9: 10/10
 - Homework 10: 10/10
+
+# Final Project
+- Final: 34.7/30
