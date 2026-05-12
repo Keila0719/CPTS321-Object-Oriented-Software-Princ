@@ -1,0 +1,24 @@
+// <copyright file="Program.cs" company="Keila Holcombe 011896868">
+// Copyright (c) Keila Holcombe. All rights reserved.
+// </copyright>
+
+namespace SubscriptionGUI
+{
+    /// <summary>
+    /// Program file that was automatically added.
+    /// </summary>
+    internal static class Program
+    {
+        /// <summary>
+        ///  The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        private static void Main()
+        {
+            // To customize application configuration such as set high DPI settings or default font,
+            // see https://aka.ms/applicationconfiguration.
+            ApplicationConfiguration.Initialize();
+            Application.Run(new Form1());
+        }
+    }
+}

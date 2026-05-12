@@ -1,0 +1,16 @@
+﻿{
+  // ACTION REQUIRED: This file was automatically added to your project, but it will not take effect until additional steps are taken to enable it. See the
+  // following page for additional information: https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/EnableConfiguration.md
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "Keila Holcombe 011896868",
+      "copyrightText": "Copyright (c) Keila Holcombe. All rights reserved.",
+      "documentPrivateElements": true,
+      "documentPrivateFields": true
+    },
+    "orderingRules": {
+      "usingDirectivesPlacement": "outsideNamespace"
+    }
+  }
+}

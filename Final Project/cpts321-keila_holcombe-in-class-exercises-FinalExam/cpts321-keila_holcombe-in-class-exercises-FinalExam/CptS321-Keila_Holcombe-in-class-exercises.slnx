@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SubscriptionGUI/SubscriptionGUI.csproj" Id="0c4a2076-acdc-4a2b-8fe2-a1b31be17d4b" />
+  <Project Path="SubscriptionPlatformService/SubscriptionPlatformService.csproj" Id="4e8ca3d5-98fd-4f6b-99bf-11b01c3721ad" />
+  <Project Path="TestSubscriptionPlatformService/TestSubscriptionPlatformService.csproj" Id="297d31a4-4b18-488d-b623-d2250e8d6032" />
+</Solution>
