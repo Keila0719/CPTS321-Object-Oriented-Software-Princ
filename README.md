@@ -1,4 +1,4 @@
-# WSU-Cpt_S-321
+# CPTS321 - Object-Oriented Software Princ - WASHINGTON STATE UNIVERISTY
 This is my work I completed for Cpt_S 321 at Washington State University.
 
 # Homeworks
