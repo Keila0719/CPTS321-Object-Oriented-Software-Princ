@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SpreadsheetEngine/SpreadsheetEngine.csproj" Id="bca38845-c223-4c98-ba07-a995dc77857f" />
+  <Project Path="Spreadsheet_Keila_Holcombe/Spreadsheet_Keila_Holcombe.csproj" Id="84f16c37-e4dd-4e59-a62c-2308d0f37097" />
+  <Project Path="TestSpreadsheetEngine/TestSpreadsheetEngine.csproj" Id="d67ce989-09ef-4361-a964-39c4406f3d49" />
+</Solution>
